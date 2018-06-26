@@ -1,0 +1,26 @@
+{
+  "name": "Tutorial1",
+  "version": "0.0.1",
+  "authors": [
+    "Ankit Bansal"
+  ],
+  "description": "Walkthrough",
+  "main": "webapp/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "webapp/test",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#1.44.19",
+    "openui5-sap.m": "openui5/packaged-sap.m#1.44.19",
+    "openui5-sap.ui.layout": "openui5/packaged-sap.ui.layout#1.44.19",
+    "openui5-sap.uxap": "openui5/packaged-sap.uxap#1.44.19",
+    "openui5-themelib_sap_belize": "openui5/packaged-themelib_sap_belize#1.44.19"
+  },
+  "homepage": ""
+}
